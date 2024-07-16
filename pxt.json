@@ -1,0 +1,51 @@
+{
+    "name": "Lady Lovelace's Time Machine",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "arcade-character-animations": "github:microsoft/arcade-character-animations#v0.0.2"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json",
+        "tilemap.g.jres",
+        "tilemap.g.ts",
+        "images.g.jres",
+        "images.g.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "branch": "v1.12.49",
+        "tag": "v1.12.49",
+        "commits": "https://github.com/microsoft/pxt-arcade/commits/8b39eda27ca91b27b57fc1f30c6b3b33d3fc2029",
+        "target": "1.12.53",
+        "pxt": "8.5.60",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj",
+    "palette": [
+        "#000000",
+        "#FEFFFF",
+        "#C6524E",
+        "#D79252",
+        "#F8EA7C",
+        "#F1D4A9",
+        "#0D081E",
+        "#704434",
+        "#6B46B2",
+        "#AFB6B9",
+        "#E8B0AB",
+        "#CE7885",
+        "#617DBD",
+        "#25418A",
+        "#96DB73",
+        "#548657"
+    ]
+}
